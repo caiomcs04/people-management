@@ -22,7 +22,6 @@ public class PhoneDTO {
     @Enumerated(EnumType.STRING)
     private PhoneType type;
 
-    @NotEmpty
-    @Size(min = 13, max = 14)
+    @Size(min = 10, max = 15)
     private String number;
 }
