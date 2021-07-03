@@ -33,19 +33,33 @@
 >
 > - You can execute any crud using an API develoment plataform of your choice
 >
-> - Or you can use [Swagger](http://localhost:8082/swagger-ui.html#/) as well
+> - Or you can use [Swagger](http://localhost:8083/swagger-ui.html#/) as well
 > 
->![Captura de tela de 2021-06-29 20-20-06](https://user-images.githubusercontent.com/66964367/123879556-82640400-d917-11eb-9e00-2c60ba2cb888.png)
+>![Captura de tela de 2021-07-03 13-26-51](https://user-images.githubusercontent.com/66964367/124360844-5b048400-dc02-11eb-89f5-06c6ec4a7e74.png)
+
+## Execution throuh Heroku
+
+> - To access H2 memory bank, go to [Heroku H2](https://peoplea-dio-api.herokuapp.com/h2)
+> 
+> - You can execute any crud using an API develoment plataform of your choice.
+> - To work with [People Entity] (https://peoplea-dio-api.herokuapp.com/people)
+> - To work with [Phone Entity] (https://peoplea-dio-api.herokuapp.com/phone)
+> 
+> - Or you can use [Swagger](https://peoplea-dio-api.herokuapp.com/swagger-ui.html#/) as well
 
 ## Functionalities
 
+> - Localhost
 > You will be able to test all functionalities in [Swagger](http://localhost:8082/swagger-ui.html#/) 
-> And also will be able to check the audit and data base in [H2](http://localhost:8082/h2)
+> And also will be able to check the data base in [H2](http://localhost:8082/h2)
+
+> - Heroku
+> You will be able to test all functionalities in [Swagger](https://peoplea-dio-api.herokuapp.com/swagger-ui.html) 
+> And also will be able to check the data base in [H2](https://peoplea-dio-api.herokuapp.com/h2)
 
 ## Contribution
 
-> - To contribute to this project, fork this project, make the changes you want and create a pull request;
-> - Futher i will implement a composite primary key for some classes and some business rules aswell 
+> - To contribute to this project, fork this project, make the changes you want and create a pull request.
 
 ## Authors
 
