@@ -19,7 +19,7 @@
 
 > - Open **personalapi** folder using an IDE of your choice
 >
-> - Load marven changes in build.gradle file if your IDE doesn't do it automatically
+> - Load marven changes in pom.xml file if your IDE doesn't do it automatically
 >
 > - Run PersonalapiApplication(~/personalapi/src/main/java/one/dio/personalapi)
 >
